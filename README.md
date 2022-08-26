@@ -5,6 +5,9 @@
 ![login-Reactc](https://user-images.githubusercontent.com/97356148/186965271-70810c50-7540-460d-8e54-0cd48c2c5199.jpg)
 ![tela2-loginreactjs](https://user-images.githubusercontent.com/97356148/186965639-0d353be6-4ebd-480b-8307-a90c63db10ac.jpg)
 
+<h2>🚀 Link da página:https://zingy-trifle-2e8cad.netlify.app/
+
+
 <br>📄 Explicação
 
 <h3>O projeto de Login foi criado com objetivo de colocar em prática meus conhecimentos em ReactJs, podendo cadastrar os dados referentes do Usuário, também o registramento do usuário caso ele nao esteja cadastrado, consiste em guardar os dados, verificando se já tem cadastramento, email e senha referente do usuário, 
