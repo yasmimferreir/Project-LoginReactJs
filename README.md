@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+<h1> Aplicação tela de Login - Registre-se <br>
+<br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+![login-Reactc](https://user-images.githubusercontent.com/97356148/186965271-70810c50-7540-460d-8e54-0cd48c2c5199.jpg)
+![tela2-loginreactjs](https://user-images.githubusercontent.com/97356148/186965639-0d353be6-4ebd-480b-8307-a90c63db10ac.jpg)
 
-In the project directory, you can run:
+<br>📄 Explicação
 
-### `npm start`
+<h3>O projeto de Login foi criado com objetivo de colocar em prática meus conhecimentos em ReactJs, podendo cadastrar os dados referentes do Usuário, também o registramento do usuário caso ele nao esteja cadastrado, consiste em guardar os dados, verificando se já tem cadastramento, email e senha referente do usuário, 
+possibilitdade de navegar entre telas.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br><h1>📁 Páginas
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h3>O site tem no total 2 páginas, sendo elas:
 
-### `npm test`
+<h3>Página principal: A página principal consiste em uma interface de Login de email, senha.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br>🎯 Etapas
+<br>✔️ Desenvolver a interaface com a biblioteca ReactJs.
+<br>✔️ Adicionar o evento de clique ao teclar Entrar.
+<br>✔️ Adicionar o evento de clique ao teclar Registre-se.
+<br>✔️ Direcionamento de telas.
+<br>✔ Verificar se o Usuário é cadastrado.
 
-### `npm run build`
+<br>
+<br>Página secundaria: A página secundaria faz o Registro do Usuário é navega para página principal.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br>🎯 Etapas
+<br>✔️ Desenvolver a interaface com a biblioteca ReactJs.
+<br>✔️ Adicionar o evento voltar para página principal.
+<br>✔️ Verificar se o usuário já tem cadastro.
+<br>✔️ Cadastrar usuário.
+<br>✔️ Verificar se todos os campos foi preenchido.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br>✔️ Projeto em andamento🛠.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h1>🚀 Tecnologias
+<br><h3>ReactJs
+<br><h3>JavaScript
+<br><h3>Styled-components
+<br><h3>Html
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br>🤝 Colaborador(a)
+ <br>Yasmim Ferreira Costa
