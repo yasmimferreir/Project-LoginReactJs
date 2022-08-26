@@ -36,7 +36,7 @@ possibilitdade de navegar entre telas.
 <br>✔️ Cadastrar usuário.
 <br>✔️ Verificar se todos os campos foi preenchido.
 
-<br>✔️ Projeto em andamento🛠.
+<br>🛠Projeto em andamento🛠.
 
 <h1>🚀 Tecnologias
 <br><h3>ReactJs
